@@ -29,7 +29,7 @@ python main.py
 
 ## Technology Stack
 - STT: Gemini 2.5 Flash (google-genai)
-- RAG: LangChain llama_index
+- RAG: LlamaIndex
 - TTS: ElevenLabs and PyDub
 
 ---
@@ -46,3 +46,4 @@ python main.py
 - Retrieval: used VectorIndexRetriever
 ### Eleven Labs TTS
 - Converts LLM text response to audio
+- Used PyDub for optimization
