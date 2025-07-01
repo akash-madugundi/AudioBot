@@ -1,5 +1,11 @@
 # AudioBot
 
+## Prerequisites
+- [FFmpeg Installed](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip)
+- Add bin folder of ffmpeg to PATH
+
+---
+
 ## Getting Started
 ### 1. Clone the repository
 ```bash
